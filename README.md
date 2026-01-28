@@ -89,7 +89,7 @@ Mostra tendência e sazonalidade.
 ➡ Fundamental para prever meses de maior risco (ex.: bonificações, compras grandes, etc).
 
 ---
-
+![Dashboard](images/capa-orcamento.png)
 ## 🏗️ Estrutura do Modelo de Dados
 
 Boas práticas de modelagem de dados baseado nas etapas do projeto
@@ -101,5 +101,7 @@ Boas práticas de modelagem de dados baseado nas etapas do projeto
 ✔ Medidas DAX organizadas em pastas  
 ✔ Página de “Rascunho” para testar DAX
 ✔ Otimização ocultando colunas não utilizadas
+
+![Dashboard](images/dados.png)
 
 ###  Esse projeto foi desenvolvido usando os dados fornecidos pelo professor André Rosa, no curso de Power BI Profissional disponível em: https://www.udemy.com/course/formacao-power-bi-pro/
