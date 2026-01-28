@@ -1,11 +1,15 @@
-# >> Painel de Gestão Orçamentária – Power BI
+<p align="center">
+  <img src="images/Capa.png" width="100%" />
+</p>
+
+## >> Painel de Gestão Orçamentária – Power BI
 
 Este projeto apresenta um dashboard completo para acompanhamento do **Orçado x Realizado**, permitindo avaliar performance, consumo de orçamento, desempenho por setor e evolução mês a mês.  
 Embora os dados sejam fictícios, a modelagem, as técnicas e o pensamento analítico utilizados refletem práticas reais adotadas em áreas financeiras e controladoria.
 
 ---
 
-# >> Objetivo do Projeto
+## >> Objetivo do Projeto
 
 Apoiar o processo de gestão orçamentária respondendo perguntas essenciais:
 
@@ -18,7 +22,7 @@ Apoiar o processo de gestão orçamentária respondendo perguntas essenciais:
 
 ---
 
-# >> Como interpretar os Indicadores do Dashboard
+## >> Como interpretar os Indicadores do Dashboard
 
 Cada indicador do dashboard foi construído com o objetivo de **guiar decisões**, e acompanhar a performance do orçamento.
 
@@ -86,7 +90,7 @@ Mostra tendência e sazonalidade.
 
 ---
 
-# 🏗️ Estrutura do Modelo de Dados
+## 🏗️ Estrutura do Modelo de Dados
 
 Boas práticas de modelagem de dados baseado nas etapas do projeto
 
